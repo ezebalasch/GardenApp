@@ -11,3 +11,4 @@ La aplicación GardenApp tiene algunos errores que deben ser corregidos:
 4- Los textos donde deberian mostrarse los cuidados de la planta no son correctos (2 puntos)
 
 5- El color de la barra de navegacion en el detalle no es el correcto (2 puntos)
+
